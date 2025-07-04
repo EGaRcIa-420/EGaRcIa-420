@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Emmanuel García Rodríguez</h1>
 <h3 align="center">Full Stack Developer passionate about clean, scalable and user-oriented solutions.</h3>
 
